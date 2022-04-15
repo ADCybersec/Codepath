@@ -1,7 +1,7 @@
 # Unit 7/8 - WordPress Pentesting
 Time spent: **78** hours spent in total
 
-> Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
+> Objective: Find, analyze, recreate, and document **five vulnerabilities(3 required, 2 optional)** affecting an old version of WordPress.
 
 ## Pentesting Report
 
